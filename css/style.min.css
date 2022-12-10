@@ -2578,6 +2578,10 @@ button.swiper-pagination-bullet {
     position: relative;
     top: -376px;
   }
+  .right__btn {
+    height: 30px;
+    font-size: 14px;
+  }
 }
 @media (max-width: 505px) {
   .footer {
